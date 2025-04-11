@@ -38,6 +38,6 @@ Currently only works on pihole.
 3. Create a pull request with your changes.
 
 >[!NOTE] 
->This is a community-driven project, so feel free to contribute by adding new LLMs to the list. The more we share, the better we can protect ourselves from the productivity trap!
+>This is a community-driven project, so feel free to contribute by adding new LLMs/Gen AI to the list.
 
 
