@@ -81,4 +81,4 @@ replit.com/ai
 *.replit.com/ai
 tabnine.com
 *.tabnine.com
-*.duckduckgo.com/?q=DuckDuckGo+AI+Chat*
+duckduckgo.com/?q=DuckDuckGo+AI+Chat

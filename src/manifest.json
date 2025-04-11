@@ -1,0 +1,40 @@
+{
+    "manifest_version": 2,
+    "name": "LLMBlocker",
+    "version": "1.0",
+  
+    "description": "Blocks 'productivity enhancing' LLMs",
+  
+    "icons": {
+      "48": "assets/nobot.png"
+    },
+  
+    "content_scripts": [
+      {
+        "matches": ["<all_urls>"],
+        "js": ["block.js"],
+        "run_at":"document_start"
+      }
+    ],
+
+    "background": {
+      "scripts": ["background.js"]
+    },
+
+    "web_accessible_resources": [
+        "assets/blockPage.html",
+        "assets/nobot.png"
+    ],
+
+    "permissions": [
+        "storage",
+        "activeTab",
+        "*://raw.githubusercontent.com/*"
+    ],
+
+    "browser_action": {
+      "default_icon": "assets/nobot.png",
+      "default_popup": "menu/popup.html"
+    }
+
+  }
