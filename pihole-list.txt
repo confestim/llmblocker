@@ -48,3 +48,4 @@
 ||leonardo.ai^
 ||dream.ai^
 ||tabnine.com^
+||githubcopilot.com^
