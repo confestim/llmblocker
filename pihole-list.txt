@@ -7,6 +7,10 @@
 # Maintainer: confestim
 # Good luck!
 
+# Extension Specific
+## duckduckgo.com/?q=DuckDuckGo+AI+Chat
+
+# General
 ||chat.openai.com^
 ||mistral.ai^
 ||platform.openai.com^
@@ -43,7 +47,4 @@
 ||stablediffusionweb.com^
 ||leonardo.ai^
 ||dream.ai^
-||github.com/features/copilot^
-||replit.com/ai^
 ||tabnine.com^
-||duckduckgo.com/?q=DuckDuckGo+AI+Chat^
