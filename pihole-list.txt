@@ -7,22 +7,23 @@
 # Maintainer: confestim
 # Good luck!
 
-chatgpt.com
-claude.ai
-bard.google.com
-gemini.google.com
-chat.openai.com
-perplexity.ai
-github.com/features/copilot
-copilot.github.com
-bing.com/chat
-mistral.ai
-deepmind.google
-anthropic.com
-ai.meta.com
-together.ai
-cohere.ai
-writesonic.com
-jasper.ai
-duck.com/chat
-cursor.com
+*.chatgpt.com
+*.claude.ai
+*.bard.google.com
+*.gemini.google.com
+*.chat.openai.com
+*.perplexity.ai
+*.github.com/features/copilot
+*.copilot.github.com
+*.bing.com/chat
+*.mistral.ai
+*.deepmind.google
+*.anthropic.com
+*.ai.meta.com
+*.together.ai
+*.cohere.ai
+*.writesonic.com
+*.jasper.ai
+*.duck.com/ai
+*.cursor.com
+*.character.ai
