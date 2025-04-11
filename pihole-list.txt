@@ -8,7 +8,9 @@
 # Good luck!
 
 (^|\.)chat\.openai\.com(/.*|$)
+(^|\.)mistral\.ai(/.*|$)
 (^|\.)platform\.openai\.com(/.*|$)
+(^|\.)chat\.deepseek\.com(/.*|$)
 (^|\.)api\.openai\.com(/.*|$)
 (^|\.)openai\.com(/.*|$)
 (^|\.)claude\.ai(/.*|$)
