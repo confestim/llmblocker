@@ -23,7 +23,8 @@
 
     "web_accessible_resources": [
         "assets/blockPage.html",
-        "assets/nobot.png"
+        "assets/nobot.png",
+        "assets/bot.png"
     ],
 
     "permissions": [

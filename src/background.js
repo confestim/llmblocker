@@ -1,1 +1,1 @@
-console.log("LLMBlocker loaded");
+browser.storage.local.set({ llmblocker_pause: false });
