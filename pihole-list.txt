@@ -1,0 +1,28 @@
+# Title: pihole-list
+# Description: Blocking AI chatbots and LLMs
+# Expires: 2 days
+# Website: https://github.com/confestim/llmblocker
+# License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+# Creator: confestim
+# Maintainer: confestim
+# Good luck!
+
+chatgpt.com
+claude.ai
+bard.google.com
+gemini.google.com
+chat.openai.com
+perplexity.ai
+github.com/features/copilot
+copilot.github.com
+bing.com/chat
+mistral.ai
+deepmind.google
+anthropic.com
+ai.meta.com
+together.ai
+cohere.ai
+writesonic.com
+jasper.ai
+duck.com/chat
+cursor.com
